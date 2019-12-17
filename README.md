@@ -16,7 +16,12 @@ Build a Data Science "Bundle" for use with snorkel:
         Pushed to GitHub 
 
     6.  Installed NLTK
+
+        Pushed to GitHub
+
+    7.  Installed numpy
     
+
 
 
 
