@@ -1,5 +1,12 @@
 # bundle
-Build a Data Science "Bundle" for use with snorkel
+Build a Data Science "Bundle" for use with snorkel:
+    1.  Set Python Interpreter to 3.6.8 - Done
+    2.  Create a VENV for Python - Make sure it comes from 3.6 python
+    3.  Activated Sourc
+        Push to Github (2K changes)
+
+
+
 
 Requirements
 
