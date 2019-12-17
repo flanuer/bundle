@@ -33,6 +33,10 @@ Build a Data Science "Bundle" for use with snorkel:
 
         Pushed to GitHub
 
+    11.  Install TextBlob
+        Pushed to GitHub
+
+
 
 
 
