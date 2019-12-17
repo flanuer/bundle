@@ -13,6 +13,11 @@ Build a Data Science "Bundle" for use with snorkel:
     4.  Installed matplotlib
     5.  Installed names
 
+        Pushed to GitHub 
+
+    6.  Installed NLTK
+    
+
 
 
 Requirements
