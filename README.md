@@ -2,9 +2,16 @@
 Build a Data Science "Bundle" for use with snorkel:
     1.  Set Python Interpreter to 3.6.8 - Done
     2.  Create a VENV for Python - Make sure it comes from 3.6 python
+        Then install virtualenv using pip3
+            sudo pip3 install virtualenv 
+        Now create a virtual environment
+            virtualenv venv 
     3.  Activated Sourc
-        Push to Github (2K changes)
 
+        Pushed to Github (2K changes)
+
+    4.  Installed matplotlib
+    5.  Installed names
 
 
 
