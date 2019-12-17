@@ -29,6 +29,10 @@ Build a Data Science "Bundle" for use with snorkel:
 
         Pushed to GitHub
 
+    10.  Installed spacy and tensorflow
+
+        Pushed to GitHub
+
 
 
 
