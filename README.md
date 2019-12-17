@@ -20,7 +20,16 @@ Build a Data Science "Bundle" for use with snorkel:
         Pushed to GitHub
 
     7.  Installed numpy
-    
+            Remember to use pip3
+        Pushed to GitHub
+
+    8.  Installed pandas
+
+    9.  Installed scikit-learn
+
+        Pushed to GitHub
+
+
 
 
 
